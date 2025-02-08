@@ -14,6 +14,7 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
                 serif: ['DM Serif Display', 'serif'],
+                pt: ['PT Serif', 'serif']
             },
             colors: {
                 primary: "#FACC00",

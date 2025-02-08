@@ -264,7 +264,7 @@
             <!-- last one -->
             <div class="w-full flex justify-center bg-primary ">
                 <div class="w-[90%]">
-                    <div class="w-full flex py-[1rem] text-[.7rem]">
+                    <div class="w-full flex py-[1rem] text-[.7rem] font-pt">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
                     </div>
                 </div>
