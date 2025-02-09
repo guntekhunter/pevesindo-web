@@ -66,8 +66,8 @@
                   <div class="flex items-center">
                     <img src="{{URL('images/icons/arrow.png')}}" alt="">
                   </div>
-                </div>
-                <button class="w-full bg-primary py-[.5rem] rounded-[10px] font-medium text-white">Hubungi Kami</button>
+                </div><button class="w-full bg-primary py-[.5rem] rounded-[10px] font-medium text-white">Hubungi Kami</button>
+                
               </div>
             </div>
           </div>
