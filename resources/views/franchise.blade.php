@@ -74,7 +74,7 @@
         <!-- section 2 -->
         <div class="w-full flex justify-center py-[3rem]">
             <div class="w-[90%] space-y-[1rem]">
-                <h2 class="text-[1.5rem]">Kenapa Pevesindo</h2>
+                <h2 class="text-[1.5rem] font-medium">Kenapa Pevesindo</h2>
                 <div class="grid grid-cols-6 gap-[1.5rem]">
                     <div class="bg-secondary border border-[#BEC9CC] rounded-md p-[2.5rem] col-span-2 space-y-[1rem]">
                         <div class="w-full justify-center flex">
@@ -216,7 +216,322 @@
             </div>
         </div>
 
+        <!-- section four -->
+        <div class="w-full flex justify-center py-[3rem]">
+            <div class="w-[90%] space-y-[2rem]">
+                <h2 class="text-[1.5rem] font-semibold text-center">Type Frenchise</h2>
+                <div class="rounded-full grid grid-cols-3 gap-[1.5rem]">
+                    <div class="rounded-[10px] shadow-md p-[3rem] space-y-[1rem] my-[1.5rem]">
+                        <h3 class="font-semibold text-[1.5rem] text-center">Studio</h3>
+                        <p class="text-[.7rem]/6">Model ini cocok bagi investor yang ingin memulai bisnis dari nol dan menginginkan dukungan penuh dalam hal desain, konstruksi, dan pengaturan toko.</p>
+                        <ul class="text-[.7rem] space-y-[1.3rem]">
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Commitment fee 50%</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Standarisasi</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Konfersi Bangunan + Sistem</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>CF 50%</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Finishing</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Soft Launching</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Grand Launching</p>
+                            </li>
+                        </ul>
+                        <div class="py-[1rem]">
+                            <hr class="border-[1.3px]">
+                        </div>
+                        <button class="w-full bg-white py-[.5rem] rounded-[10px] border-[1.5px] border-accent font-medium text-black text-[.7rem]">Talk To Us</button>
+                    </div>
+                    <div class="rounded-[10px] shadow-md p-[3rem] space-y-[1rem]">
+                        <h3 class="font-semibold text-[1.5rem] text-center">Autopilot</h3>
+                        <p class="text-[.7rem]/6">Model franchise ini dirancang khusus bagi investor yang ingin memperoleh pendapatan pasif tanpa harus terlibat dalam operasional bisnis. Investor hanya perlu menanamkan modal, dan tim pusat (francisor) akan mengelola seluruh aspek bisnis. Profit diberikan secara tetap setiap bulan sebagai hasil dari kinerja toko yang dikelola oleh pusat</p>
+                        <ul class="text-[.7rem] space-y-[1.3rem]">
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Commitment fee 50%</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Persetujuan Lokasi</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>CF 75 %</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Pembangunan Toko</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Finishing</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Soft Launching</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Grand Launching</p>
+                            </li>
+                        </ul>
+                        <div class="py-[1rem]">
+                            <hr class="border-[1.3px]">
+                        </div>
+                        <button class="w-full bg-white py-[.5rem] rounded-[10px] border-[1.5px] border-accent font-medium text-black text-[.7rem]">Talk To Us</button>
+                    </div>
+                    <div class="rounded-[10px] shadow-md p-[3rem] space-y-[1rem] my-[1.5rem]">
+                        <h3 class="font-semibold text-[1.5rem] text-center">Reguler</h3>
+                        <p class="text-[.7rem]/6">Model ini cocok untukmu yang sudah memiliki Bangunan sendiri. dengan begitu kamu bisa meminimalkan biaya awal karena tidak perlu melakukan pembangunan toko.</p>
+                        <ul class="text-[.7rem] space-y-[1.3rem]">
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Commitment fee 50%</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Renovasi Toko</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>CF 50%</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Finishing</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Soft Launching</p>
+                            </li>
+                            <li class="flex space-x-[1rem]">
+                                <div class="flex justify-center items-center">
+                                    <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+                                </div>
+                                <p>Grand Opening</p>
+                            </li>
+                        </ul>
+                        <div class="py-[1rem]">
+                            <hr class="border-[1.3px]">
+                        </div>
+                        <button class="w-full bg-white py-[.5rem] rounded-[10px] border-[1.5px] border-accent font-medium text-black text-[.7rem]">Talk To Us</button>
+                    </div>
+                </div>
+            </div>
+        </div>
 
+        <!-- section five -->
+        <div class="w-full flex justify-center py-[3rem]">
+            <div class="w-[90%] grid grid-cols-3 gap-[1.5rem]">
+                <div class="border border-[#D9D9D9] rounded-[10px] overflow-hidden bg-secondary">
+                    <img src="{{URL('images/type-1.png')}}" alt="" class="w-full">
+                    <div class="p-[1rem] space-y-[.7rem]">
+                        <h3 class="text-[1rem] font-bold">Hunian (Resedensial)</h3>
+                        <p class="text-[.7rem]">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                    </div>
+                </div>
+                <div class="border border-[#D9D9D9] rounded-[10px] overflow-hidden bg-secondary">
+                    <img src="{{URL('images/type-2.png')}}" alt="" class="w-full">
+                    <div class="p-[1rem] space-y-[.7rem]">
+                        <h3 class="text-[1rem] font-bold">Komersial</h3>
+                        <p class="text-[.7rem]">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                    </div>
+                </div>
+                <div class="border border-[#D9D9D9] rounded-[10px] overflow-hidden bg-secondary">
+                    <img src="{{URL('images/type-3.png')}}" alt="" class="w-full">
+                    <div class="p-[1rem] space-y-[.7rem]">
+                        <h3 class="text-[1rem] font-bold">Industri</h3>
+                        <p class="text-[.7rem]">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- section six -->
+        <div class="w-full justify-center flex py-[3rem]">
+            <div class="w-[90%] space-y-[3rem]">
+                <h2 class="text-[1.5rem] font-semibold text-center">Langkah Mudah untuk Bergabung</h2>
+                <div class="flex w-full">
+                    <div class="grid grid-cols-3 w-full">
+                        <div class="flex">
+                            <div class="border-primary border-[1.3px] rounded-full w-[1rem] h-[1rem]"></div>
+                            <div class="flex items-center w-full">
+                                <div class="h-[.1px] w-full bg-primary"></div>
+                            </div>
+                        </div>
+                        <div class="flex">
+                            <div class="bg-primary rounded-full w-[1rem] h-[1rem]"></div>
+                            <div class="flex items-center w-full">
+                                <div class="h-[.1px] w-full bg-primary"></div>
+                            </div>
+                        </div>
+                        <div class="bg-primary rounded-full w-[1rem] h-[1rem] relative">
+                            <div class="absolute">
+                                <img src="{{URL('images/icons/checklist.png')}}" alt="" class="w-[1rem]">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid grid-cols-3 w-full gap-[1.5rem]">
+                    <div class="space-y-[.5rem]">
+                        <h3 class="text-[1rem] font-bold">Pilih Paket Franchise</h3>
+                        <p class="text-[.7rem]">Sesuaikan dengan kebutuhan dan preferensi Anda</p>
+                    </div>
+                    <div class="space-y-[.5rem]">
+                        <h3 class="text-[1rem] font-bold">Diskusi dan Kesepakatan</h3>
+                        <p class="text-[.7rem]">Kami akan menjelaskan detail investasi dan mempersiapkan semua dokumen.</p>
+                    </div>
+                    <div class="space-y-[.5rem]">
+                        <h3 class="text-[1rem] font-bold">Mulai Bisnis Anda</h3>
+                        <p class="text-[.7rem]">Kami akan membantu Anda memulai perjalanan sukses bersama Pevesindo</p>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <!-- section seven -->
+        <div class="w-full py-[5rem] flex">
+            <div class="bg-red-200 w-[50%] rounded-tr-[10rem] overflow-hidden">
+                <img src="{{URL('images/join.png')}}" alt="" class="w-full">
+            </div>
+            <div class="w-[50%] flex items-end">
+                <div class="bg-[#F5F5F5] h-[50%] w-full p-[1.5rem]">
+                    <div class="w-[90%] space-y-[1rem]">
+                        <h2 class="font-bold text-[1.5rem]">
+                            Jangan Lewatkan Peluang Ini
+                        </h2>
+                        <div class="space-y-[.5rem]">
+                            <p class="text-left text-[.7rem]">Bergabunglah dengan franchise Pevesindo dan raih kesuksesan di industri plafon PVC.
+                            </p>
+                            <p class="text-left text-[.7rem] font-semibold">Hubungi Kami Sekarang</p>
+                            <div class="text-[.7rem] space-y-[.7rem]">
+                                <div class="flex space-x-[1rem]">
+                                    <div class="">
+                                        <img src="{{URL('images/icons/whatsapp.png')}}" alt="" class="w-[1rem]">
+                                    </div>
+                                    <p>Whatsapp: 082 12345 0245</p>
+                                </div>
+                                <div class="flex space-x-[1rem]">
+                                    <div class="">
+                                        <img src="{{URL('images/icons/email.png')}}" alt="" class="w-[1rem]">
+                                    </div>
+                                    <p>Whatsapp: 082 12345 0245</p>
+                                </div>
+                                <div class="flex space-x-[1rem]">
+                                    <div class="">
+                                        <img src="{{URL('images/icons/web.png')}}" alt="" class="w-[1rem]">
+                                    </div>
+                                    <p>Whatsapp: 082 12345 0245</p>
+                                </div>
+                            </div>
+                            <p class="text-left text-[.7rem]">Tempat Terbatas! Segera Amankan Paket Franchise Anda!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- section eight -->
+        <div class="flex w-full justify-center">
+            <div class="w-[90%]">
+                <div class="grid grid-cols-3 gap-[1rem]">
+                    <div class="flex w-full justify-center item-center">
+                        <div class="flex items-center w-full">
+                            <div class="h-[.1px] w-full bg-black"></div>
+                        </div>
+                    </div>
+                    <div class="flex w-full justify-center item-center">
+                        <h2 class="font-serif text-[2rem] text-black font-semibold">ATAU</h2>
+                    </div>
+
+                    <div class="flex w-full justify-center item-center">
+                        <div class="flex items-center w-full">
+                            <div class="h-[.1px] w-full bg-black"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- section nine -->
+        <div class="w-full py-[5rem] flex justify-around">
+            <div class="w-[70%] bg-secondary border border-accent rounded-[10px] p-[2rem] space-y-[.8rem]">
+                <h3 class="text-[1rem] font-bold">Contrary to popular belief, Lorem Ipsum is not simply random tex ...</h3>
+                <p class="text-[.7rem]">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                <div class="grid grid-cols-2 gap-[1rem]">
+                    <input type="text" class="text-[.7rem] w-full rounded-[10px] border-accent col-span-2" placeholder="Ommaleka">
+                    <input type="text" class="text-[.7rem] w-full rounded-[10px] border-accent" placeholder="Ommaleka">
+                    <input type="text" class="text-[.7rem] w-full rounded-[10px] border-accent" placeholder="Ommaleka">
+                    <div class="rounded-[10px] flex px-[1rem] border border-[#D9D9D9] bg-white text-[.7rem]">
+                        <div class="flex items-center">
+                            +62
+                        </div>
+                        <input type="text" class="rounded-[10px] border-none w-full focus:outline-none focus:ring-0 active:outline-none active:ring-0">
+                    </div>
+                    <input type="text" class="text-[.7rem] w-full rounded-[10px] border-accent" placeholder="Ommaleka">
+                    <textarea name="" id="" class="text-[.7rem] w-full rounded-[10px] border-accent col-span-2" placeholder="Ommaleka"></textarea>
+                </div>
+            </div>
+        </div>
 
         <!-- footer -->
         <div>
